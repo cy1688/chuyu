@@ -1,37 +1,146 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-You can use the [editor on GitHub](https://github.com/cy1688/chuyu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html xmlns="http://www.w3.org/1999/xhtml">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
 
-### Markdown
+<title>无极III测试网页</title>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<meta name="description" content="218b.cn," />
 
-```markdown
-Syntax highlighted code block
+<meta name="keywords" content="218b.cn," /> 
 
-# Header 1
-## Header 2
-### Header 3
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 
-- Bulleted
-- List
+ 
 
-1. Numbered
-2. List
+<style>
 
-**Bold** and _Italic_ and `Code` text
+body {line-height: 1.6; background-color: #fff;}
 
-[Link](url) and ![Image](src)
-```
+body, th, td, button, input, select, textarea { font-family: "Microsoft Yahei","Hiragino Sans GB","Helvetica Neue",Helvetica,tahoma,arial,Verdana,sans-serif,"WenQuanYi Micro Hei","\5B8B\4F53"; font-size: 12px; color: #666;    -webkit-font-smoothing: antialiased;   -moz-font-smoothing: antialiased;}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+html, body {   height: 100%;}
 
-### Jekyll Themes
+html, body, h1, h2, h3, h4, h5, h6, hr, p, iframe, dl, dt, dd, ul, ol, li, pre, form, button, input, textarea, th, td, fieldset {    margin: 0;    padding: 0;}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cy1688/chuyu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ 
 
-### Support or Contact
+.wrap{ margin: 0px auto;min-width: 990px;max-width: 1190px}
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+.banner1{ background:url(images/banner_jiaoyi.jpg) no-repeat 50% top; margin:0 auto; height: 343px; text-align: center}
+
+.main-out{  margin:0 auto;padding:0 0 20px 0}
+
+.orangebtn{background-color: #ff8400; display: inline-block; padding: 0px 20px; color: #fff; height:50px;line-height: 50px;font-size: 18px; border-radius: 3px;margin-top: 20px}
+
+.orangebtn:hover{color: #fff;background-color: #f16600; }
+
+.banner1 h1{font-size:48px; color: #feff07;font-family: Tahoma, sans-serif;padding: 60px 0 20px 0}
+
+.banner1 p{color: #fff;font-size: 20px;}
+
+.domain-con{ padding: 20px 50px;position: relative;}
+
+.left{ background: #f6f6f6 url(images/jiaoyixq_jiaoyi.jpg) no-repeat left top; height:100%;  width: 100%; margin-right: 320px;font-size: 16px}
+
+.domainout{ padding: 50px 380px 50px 100px}
+
+.domainout p{ line-height: 50px;}
+
+.domainout p span{ display: inline-block; width: 120px; text-align: right;margin-right: 5px}
+
+strong.red{color: #ff7e00;font-size: 24px}
+
+.right{background-color: #2780d9;height:100%; width: 320px;position: absolute; right: 50px;top: 0; color: #fff; padding:0px 20px 0px 20px;font-size: 16px}
+
+.right h2{color: #fff; border-bottom: 1px solid #1071d2; height: 56px; line-height: 56px; font-size: 20px; text-align: center}
+
+.imgpic{ padding: 25px 0 20px 0}
+
+.contact{margin-left: 50px}
+
+.contact p{line-height: 40px}
+
+a{text-decoration: none;}
+
+.text-c{text-align:center;}
+
+</style>
+
+</head>
+
+
+
+<body>
+
+<div class="banner-out">
+
+<div class="banner1">
+
+<div class="wrap">
+
+<h1>无极III测试</h1>
+
+<p>代理申请请联系QQ<br>
+
+   </p>
+
+   </div>
+
+</div>
+
+</div>
+
+<div class="main-out ">
+
+<div class="wrap ">
+
+<div class="domain-con">
+
+<div class="left">
+
+<div class="domainout">
+
+
+
+<p><span></span><a href="http://idc.aspku.com/" class="orangebtn" target="_blank">  无极Ⅲ 登   录  </a></p>
+
+<p><span></span><a href="http://idc.aspku.com/" class="orangebtn" target="_blank">  无极Ⅲ 注   册  </a></p>
+
+</div>
+
+</div>
+
+<div class="right">
+
+<h2>请联系初遇</h2>
+
+<div class="imgpic text-c">
+
+
+
+
+
+</div>
+
+<div class="contact">
+
+<p>QQ：674677</p>
+
+<p>备用QQ:47784320</p>
+
+<p>邮箱：admin@admin.com</p>
+
+</div>
+
+</div>
+
+</div>
+
+ </div>
+
+
+	</body>
+
+</html>
