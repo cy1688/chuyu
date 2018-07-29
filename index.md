@@ -138,9 +138,5 @@ a{text-decoration: none;}
 
 </div>
 
- </div>
 
 
-	</body>
-
-</html>
